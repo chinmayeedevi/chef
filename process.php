@@ -39,37 +39,37 @@
                             <div class="row">
                                 <div class="col-md-2">
                                     <div class="step">
-                                        <h3>Step 1</h3>
+                                        <h3>Stage 1</h3>
                                         <h5>Project Planning & Design</h5>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
                                     <div class="step">
-                                        <h3>Step 2</h3>
+                                        <h3>Stage 2</h3>
                                         <h5>Systems Planning</h5>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
                                     <div class="step">
-                                        <h3>Step 3A</h3>
+                                        <h3>Stage 3A</h3>
                                         <h5>Technical Planning (A)</h5>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
                                     <div class="step">
-                                        <h3>Step 3B</h3>
+                                        <h3>Stage 3B</h3>
                                         <h5>Technical Planning (B)</h5>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
                                     <div class="step">
-                                        <h3>Step 4</h3>
+                                        <h3>Stage 4</h3>
                                         <h5>Operations Planning <br> Control System</h5>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
                                     <div class="step">
-                                        <h3>Step 5</h3>
+                                        <h3>Stage 5</h3>
                                         <h5>Pre-opening Services & Planning</h5>
                                     </div>
                                 </div>
@@ -77,6 +77,88 @@
                         </div>
                     </div>
                 </div><!-- /.row -->
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="step-block">
+                            <h4>Stage 1 : Project Planning & Design</h4>
+                            <ul>
+                                <li>Preliminary Concepts and Design</li>
+                                <li>Architect Meeting & Selection</li>
+                                <li>Site Investigation</li>
+                                <li>Project Report</li>
+                                <li>Cost & Estimates</li>
+                                <li>Legal and Applications</li>
+                            </ul>
+                        </div>
+                    </div> 
+                    <div class="col-lg-4">
+                        <div class="step-block">
+                            <h4>Stage 2 : Systems Planning</h4>
+                            <ul>
+                                <li>Coordination of Various Agencies</li>
+                                <li>Interior Design Coordination</li>
+                                <li>Master Planning : Cost estimates, Suppliers, Contracts, Tenders etc.</li>
+                                <li>Graphics and Ad-design Selection</li>
+                                <li>Printing Agency Selection & Coordination</li>
+                                <li>Engineering Planning</li>
+                                <li>Architects Design & Specification</li>
+                                <li>Progress Report</li>
+                            </ul>
+                        </div>
+                    </div>   
+                    <div class="col-lg-4">
+                        <div class="step-block">
+                            <h4>Stage 3 : Technical Planning (A)</h4>
+                            <ul>
+                                <li>Invitations of Quotations for F & B & House Keeping Services & others</li>
+                                <li>Cuisine & Menu Planning</li>
+                                <li>Selection of Capital Equipments</li>
+                                <li>Monitoring of Progress</li>
+                                <li>Kitchen Planning, Inviting Equipment Quotations and their Evaluation & Approval</li>
+                                <li>Software Evaluation and Invitation of Quotations</li>
+                            </ul>
+                        </div>
+                    </div>      
+                    <div class="col-lg-4">
+                        <div class="step-block">
+                            <h4>Stage 3 : Technical Planning (B)</h4>
+                            <ul>
+                                <li>Monitoring Progress</li>
+                                <li>Application for Tourism</li>
+                                <li>Progress Report</li>
+                                <li>Application for Opening Licenses</li>
+                                <li>Revision for Financial Support</li>
+                            </ul>
+                        </div>
+                    </div>  
+                    <div class="col-lg-4">
+                        <div class="step-block">
+                            <h4>Stage 3 : Technical Planning (A)</h4>
+                            <ul>
+                                <li>Setting Up Systems for the Functioning of (<span style="color:#ea4a3f">F & B Service, Food Production, Housekeeping, Front Office, Banquet , Pool and Outdoors, Purchases and Stores, Sales & Marketing</span> )</li>
+                                <li>Manpower Projections and Planning</li>
+                                <li>Assistance in Recruitment of Staff</li>
+                                <li>Launching Plan</li>
+                                <li>Menu Trials</li>
+                                <li>Soft Opening & Trial Runs</li>
+
+                            </ul>
+                        </div>
+                    </div>  
+                    <div class="col-lg-4">
+                        <div class="step-block">
+                            <h4>Stage 5 : Pre-Opening Services & Planning</h4>
+                            <ul>
+                                <li>Trial Runs for Software Systems</li>
+                                <li>Pre-opening Installation of Efficient Operational Systems</li>
+                                <li>Implementation of Marketing, Publicity and Advertising </li>
+                                <li>Campaigns</li>
+                                <li>Control Systems</li>
+                                <li>Grand Opening and Handing Over the Project Operationally to the client.</li>
+                            </ul>
+                        </div>
+                    </div>              
+                </div>
             </div><!-- /.container -->
         </div>
         <!--~~./ end about us block ~~-->

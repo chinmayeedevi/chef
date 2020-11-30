@@ -166,37 +166,37 @@
                                 <div class="product-food-carousel2 owl-carousel">
                                     <div class="food-grid-item grid-style-three">
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="#">Hotels | Resorts & Motels</a></h3>
+                                            <h3 class="food-title"><a>Hotels | Resorts & Motels</a></h3>
                                         </div>
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="#">Serviced Apartments</a></h3>
-                                        </div>
-                                    </div>
-                                    <!--~./ food-menu-item ~-->
-                                    <div class="food-grid-item grid-style-three">
-                                        <div class="food-info">
-                                            <h3 class="food-title"><a href="#">Valley Resorts | Ethnic Spas</a></h3>                           
-                                        </div>
-                                        <div class="food-info">
-                                            <h3 class="food-title"><a href="#">Clubs & Leisure Facilities</a></h3>
+                                            <h3 class="food-title"><a>Serviced Apartments</a></h3>
                                         </div>
                                     </div>
                                     <!--~./ food-menu-item ~-->
                                     <div class="food-grid-item grid-style-three">
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="#">Banquet & Convention Centre</a></h3>
+                                            <h3 class="food-title"><a>Valley Resorts | Ethnic Spas</a></h3>                           
                                         </div>
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="#">Food Courts & Fast Food   </a></h3>                           
+                                            <h3 class="food-title"><a>Clubs & Leisure Facilities</a></h3>
                                         </div>
                                     </div>
                                     <!--~./ food-menu-item ~-->
                                     <div class="food-grid-item grid-style-three">
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="#">Restaurants & Café</a></h3>
+                                            <h3 class="food-title"><a>Banquet & Convention Centre</a></h3>
                                         </div>
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="#">Bar & Lounges</a></h3>   
+                                            <h3 class="food-title"><a>Food Courts & Fast Food   </a></h3>                           
+                                        </div>
+                                    </div>
+                                    <!--~./ food-menu-item ~-->
+                                    <div class="food-grid-item grid-style-three">
+                                        <div class="food-info">
+                                            <h3 class="food-title"><a>Restaurants & Café</a></h3>
+                                        </div>
+                                        <div class="food-info">
+                                            <h3 class="food-title"><a>Bar & Lounges</a></h3>   
                                         </div>
                                     </div>
                                     <!--~./ food-menu-item ~-->

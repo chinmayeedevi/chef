@@ -117,18 +117,3 @@
         <!--~~~ Sticky Header ~~~-->
         <div id="sticky-header"></div>
         <!--~./ end sticky header ~-->
-
-        <style>
-        .about-content.clent {border: 2px solid #e97e77;padding: 10px 10px 10px 10px;border-radius: 10px;background: #fff;box-shadow: 3px 3px 6px #e97e77bd;margin-bottom:20px}
-        .about-content.clent p {margin-bottom: 0;text-align: left;color: #2f2d2d;}
-        .about-content.clent p:first-child {margin-top: 10px}
-        .about-content.clent h4 {text-align: left;border-bottom: 2px solid #e97e77;display: inline;}
-        .about-content.clent h5 {font-size: 19px;}
-        .contact-detail-box.career-detail-box {width: 33.3%;float:left;margin-bottom: 0;margin-top: 20px;}
-        .contact-detail-box.career-detail-box i {width: 35px;line-height: 35px;height: 35px}
-        .about-content.clent.career h4 {border-bottom: 0;}
-        .process-block .step {text-align: center;width: 190px;height: 190px;background: #333;vertical-align: middle;border-radius: 100%;border: 3px solid #ee8078; padding: 30px 10px;transition:.5s ease-in-out}
-        .process-block .step:hover {transform:translateY(-20px)}
-        .process-block .step h3 {color: #ee8078;text-transform:uppercase;padding-top: 12px;font-weight: 500;border-bottom: 2px dashed;display: inline-block;}
-        .process-block .step h5 {color:#fff;padding-top: 10px;}
-        </style>
