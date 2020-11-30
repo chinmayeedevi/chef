@@ -111,7 +111,7 @@ html {
 
 body {
   background-color: white;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
   font-size: 15px;
   font-weight: normal;
   line-height: 1.6em;
@@ -8302,7 +8302,10 @@ a:hover, a:active {
 
 @media only screen and (min-width: 1200px) {
   .site-header.header-style-eight .navigation .mainmenu > li > a {
-    padding: 12px 17px;
+    padding: 12px;
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    letter-spacing: 1px;
   }
   .site-header.header-style-eight .navigation .mainmenu .sub-menu {
     left: 10px;
