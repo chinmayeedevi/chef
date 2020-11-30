@@ -166,37 +166,37 @@
                                 <div class="product-food-carousel2 owl-carousel">
                                     <div class="food-grid-item grid-style-three">
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="single-food.html">Hotels | Resorts & Motels</a></h3>
+                                            <h3 class="food-title"><a>Hotels | Resorts & Motels</a></h3>
                                         </div>
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="single-food.html">Serviced Apartments</a></h3>
-                                        </div>
-                                    </div>
-                                    <!--~./ food-menu-item ~-->
-                                    <div class="food-grid-item grid-style-three">
-                                        <div class="food-info">
-                                            <h3 class="food-title"><a href="single-food.html">Valley Resorts | Ethnic Spas</a></h3>                           
-                                        </div>
-                                        <div class="food-info">
-                                            <h3 class="food-title"><a href="single-food.html">Clubs & Leisure Facilities</a></h3>
+                                            <h3 class="food-title"><a>Serviced Apartments</a></h3>
                                         </div>
                                     </div>
                                     <!--~./ food-menu-item ~-->
                                     <div class="food-grid-item grid-style-three">
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="single-food.html">Banquet & Convention Centre</a></h3>
+                                            <h3 class="food-title"><a>Valley Resorts | Ethnic Spas</a></h3>                           
                                         </div>
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="single-food.html">Food Courts & Fast Food   </a></h3>                           
+                                            <h3 class="food-title"><a>Clubs & Leisure Facilities</a></h3>
                                         </div>
                                     </div>
                                     <!--~./ food-menu-item ~-->
                                     <div class="food-grid-item grid-style-three">
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="single-food.html">Restaurants & Café</a></h3>
+                                            <h3 class="food-title"><a>Banquet & Convention Centre</a></h3>
                                         </div>
                                         <div class="food-info">
-                                            <h3 class="food-title"><a href="single-food.html">Bar & Lounges</a></h3>   
+                                            <h3 class="food-title"><a>Food Courts & Fast Food   </a></h3>                           
+                                        </div>
+                                    </div>
+                                    <!--~./ food-menu-item ~-->
+                                    <div class="food-grid-item grid-style-three">
+                                        <div class="food-info">
+                                            <h3 class="food-title"><a>Restaurants & Café</a></h3>
+                                        </div>
+                                        <div class="food-info">
+                                            <h3 class="food-title"><a>Bar & Lounges</a></h3>   
                                         </div>
                                     </div>
                                     <!--~./ food-menu-item ~-->

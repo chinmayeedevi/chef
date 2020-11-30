@@ -84,6 +84,11 @@
                                                 </li>
                                                 <li>
                                                     <a href="about.php">about</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="image.php">About</a></li>
+                                                        <li><a href="client.php">Client</a></li>
+                                                        <li><a href="process.php">Process</a></li>
+                                                    </ul>
                                                 </li>
                                                 <li>
                                                     <a href="solution.php">Solutions</a>
@@ -93,6 +98,7 @@
                                                 </li>
                                                 <li><a href="contact.php">contact</a></li>
                                                 <li><a href="franchise.php">franchise</a></li>
+                                                <li><a href="career.php">Career</a></li>
                                             </ul> <!-- /.menu-list -->
                                         </div> <!-- /.hours-content-->
                                     </div><!-- /.menu-wrapper -->
