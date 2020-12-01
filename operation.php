@@ -53,7 +53,7 @@
                                 <tbody style="background: #ffffffad;">
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">F&B SERVICES</a></h2>
+                                            <h2><a>F&B SERVICES</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Planning for Restaurant; Cuisine & Menu; Furniture; Tableware; Linen; Staff uniform; Procedures manual</span>
@@ -61,7 +61,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">FOOD PRODUCTION</a></h2>
+                                            <h2><a>FOOD PRODUCTION</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Planning for Kitchen layout; equipment; Utensils; Food costing & control; Menu pricing; </span>
@@ -69,7 +69,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">ROOMS DIVISION</a></h2>
+                                            <h2><a>ROOMS DIVISION</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Operational set up of all requirements </span>
@@ -77,7 +77,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">SALES & MARKETING</a></h2>
+                                            <h2><a>SALES & MARKETING</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Staff recruitment; Training; </span>
@@ -85,7 +85,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">HUMAN RESOURCES</a></h2>
+                                            <h2><a>HUMAN RESOURCES</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount"> Give strategic inputs for the department </span>
@@ -93,7 +93,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">MATERIALS MANAGEMENT</a></h2>
+                                            <h2><a>MATERIALS MANAGEMENT</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Stores planning & control; Forms & formats; Vendor management </span>
@@ -101,7 +101,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">BRANDING & PUBLICITY</a></h2>
+                                            <h2><a>BRANDING & PUBLICITY</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount"> Planning for Restaurant; Cuisine & Menu; Furniture; Tableware; Linen; Staff uniform; Procedures manual  </span>
@@ -109,7 +109,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">SIGNAGES & PRINTING</a></h2>
+                                            <h2><a>SIGNAGES & PRINTING</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount"> External & Internal, All Guest Amenities Design Assistance & Selection  </span>
@@ -117,7 +117,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">F & B COSTING </a></h2>
+                                            <h2><a>F & B COSTING </a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount"> Cost Control Methodology & System  </span>
@@ -125,7 +125,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">EQUIPMENT PLANNING</a></h2>
+                                            <h2><a>EQUIPMENT PLANNING</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount"> All Operational Areas of the Hotel - Restaurant, Coffee Shop, Bar, Library Lounge, Main Kitchen, Banquet Kitchen & Satellite Kitchen  </span>
@@ -133,7 +133,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">IT SYSTEM & SOFTWARE </a></h2>
+                                            <h2><a>IT SYSTEM & SOFTWARE </a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Planning for the right type of Software Selection; Procedures Interfacing </span>
@@ -141,7 +141,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">PROCUREMENT</a></h2>
+                                            <h2><a>PROCUREMENT</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Assistance in all Soft Goods Selection & Assistance in Identifying Supply Chain</span>
@@ -149,7 +149,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">HOUSEKEEPING & UPKEEP SERVICES </a></h2>
+                                            <h2><a>HOUSEKEEPING & UPKEEP SERVICES </a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Identifying the materials & set up of HK & Laundry Division & Assistance in Guest Amenities Selection </span>
@@ -157,7 +157,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">EQUIPMENT PLANNING </a></h2>
+                                            <h2><a>EQUIPMENT PLANNING </a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">All Operational Areas of the Hotel - Gets the 365 Days Ramp before Opening & the Exhaustive Oper-ational Set Up Commences on a count down basis </span>
@@ -189,7 +189,7 @@
                                 <tbody style="background: #ffffffad;">
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">PERFORMANCE REVIEW</a></h2>
+                                            <h2><a>PERFORMANCE REVIEW</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Revenue streams within each unit to be reviewed against benchmarks; Customer feedback </span>
@@ -197,7 +197,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">UNITWISE ASSESSMENT</a></h2>
+                                            <h2><a>UNITWISE ASSESSMENT</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Each unit's performance to be reviewed in quali-tative & financial terms  </span>
@@ -205,7 +205,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">BUDEGETING & COSTING</a></h2>
+                                            <h2><a>BUDEGETING & COSTING</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">As per Set Standards as desired by the Management Accounting Team </span>
@@ -213,7 +213,7 @@
                                     </tr>
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
-                                            <h2><a href="single-shop.html">HR PERFORMANCE AP</a></h2>
+                                            <h2><a>HR PERFORMANCE AP</a></h2>
                                         </td>
                                         <td class="product-price">
                                             <span class="amount">Performance of Key Personnel to be appraised pe-riodically; Incentive, Motivation &Training needs to be reviewed  </span>
