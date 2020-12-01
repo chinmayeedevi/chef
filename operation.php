@@ -50,7 +50,7 @@
                                         <th class="product-price">Activities</th>
                                     </tr>
                                 </thead>
-                                <tbody>
+                                <tbody style="background: #ffffffad;">
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
                                             <h2><a href="single-shop.html">F&B SERVICES</a></h2>
@@ -186,7 +186,7 @@
                                         <th class="product-price">MONITORING ACTIVITIES ON A REGULAR BASIS </th>
                                     </tr>
                                 </thead>
-                                <tbody>
+                                <tbody style="background: #ffffffad;">
                                     <tr class="shoping-cart-item">
                                         <td class="product-info">
                                             <h2><a href="single-shop.html">PERFORMANCE REVIEW</a></h2>

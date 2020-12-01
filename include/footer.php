@@ -14,7 +14,7 @@
                                         <a href="index.php"><img src="assets/images/logo/chef-w.png"
                                                 alt="Logo"></a>
                                         <div class="copyright-text">
-                                            <p>© 2020. All Rights Reserved <br>Develop By <a href="http://webinfotech.net.in" target="_blank" style="display:inline">Webinfotech</a></p>
+                                            <p>© 2020. All Rights Reserved <br>Develop By <a href="https://webinfotech.net.in" target="_blank" style="display:inline">Webinfotech</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -27,12 +27,12 @@
                             <aside class="widget widget_links">
                                 <div class="widget-content">
                                     <ul>
-                                        <li><a href="operation.php">OPERATION</a></li>
                                         <li><a href="about.php">ABOUT</a></li>
                                         <li><a href="career.php">CAREER</a></li>
+                                        <li><a href="process.php">PROCESS</a></li>
+                                        <li><a href="solution.php">SOLUTION</a></li>
+                                        <li><a href="operation.php">OPERATION</a></li>
                                         <li><a href="contact.php">CONTACT US</a></li>
-                                        <li><a href=".php">PRIVACY POLICY</a></li>
-                                        <li><a href=".php">TERMS OF USE</a></li>
                                     </ul>
                                 </div>
                             </aside>

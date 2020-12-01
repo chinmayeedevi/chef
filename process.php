@@ -31,7 +31,7 @@
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
             Start About Us Block
         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-        <div class="about-us-block pd-t-100">
+        <div class="about-us-block pd-t-50">
             <div class="container-fluid">
                 <div class="row justify-content-center">
                     <div class="col-lg-12">

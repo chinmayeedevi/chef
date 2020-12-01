@@ -85,7 +85,7 @@
                                                 <li>
                                                     <a href="about.php">about</a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="image.php">About</a></li>
+                                                        <li><a href="about.php">About</a></li>
                                                         <li><a href="client.php">Client</a></li>
                                                         <li><a href="process.php">Process</a></li>
                                                     </ul>
